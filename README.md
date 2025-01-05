@@ -126,7 +126,7 @@ Members exhibit consistent usage patterns year-round, while casual users are mor
 
 ### Rides by Type
 
-![Number of Rides per Rideable Type](https://github.com/user-attachments/assets/167800fe-87b3-4f90-8409-f71cc4deb755)
+![Number of Rides per Rideable Type (1)](https://github.com/user-attachments/assets/92e41672-4ea6-4ae1-b029-ca646552a5d6)
 
 Electric Bikes: Account for 3.0 million rides, with usage evenly split between members (63%) and casual users (37%).
 
