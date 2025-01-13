@@ -149,7 +149,8 @@ Members and casual users show similar preferences for classic and electric bikes
 ## Location Trends
 
 ![Member Location Dashboard](https://github.com/user-attachments/assets/12b46cdb-2363-4827-9300-da9037b8c98e)
-![Casual Location Dashboard](https://github.com/user-attachments/assets/a665d9ba-0dc6-44e2-8984-fb3e2decbf14)
+![Casual Location Dashboard (1)](https://github.com/user-attachments/assets/27378296-e9ea-40b1-99e7-dc21c3e11eaa)
+
 
 Both user types commonly start and end trips at two key locations: West Loop Gate and Merchandise Mart. These areas are connected by the Kinzie St Bikeway, a central and bike-friendly route. This infrastructure likely drives high ride numbers for both groups.
 
